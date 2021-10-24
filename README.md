@@ -20,9 +20,8 @@
 <br/>
 
 ### 🎈 ERD 설계 by Aquery Tool <br/>
-- URL : https://aquerytool.com/aquerymain/index/?rurl=73a176e1-bc7c-4a04-8531-d5aa169be98b&  
-- Password : da430a   
-![Instagram_20210928_35_45](https://user-images.githubusercontent.com/44793355/135088181-12464e6a-1a93-4501-8215-50e023f45003.png)  <br/>
+- URL : https://aquerytool.com/aquerymain/index/?rurl=d0c932ec-e2b7-4580-8b30-77022d458437&
+- Password : 554j2i
 
 
 ### 🎈 API 명세서 <br/>
